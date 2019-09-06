@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
     <list default="true" id="2231a293-08f0-4d26-9deb-1bb37b4cb262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -28,31 +27,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dz2.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
             <state relative-caret-position="485">
 =======
             <state relative-caret-position="2120">
 >>>>>>> Stashed changes
+=======
+            <state relative-caret-position="-631">
+>>>>>>> origin/master
               <caret line="106" column="25" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> origin/master
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dz3.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
+<<<<<<< HEAD
               <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+=======
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> origin/master
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dz1.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,13 +92,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dz1.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/dz2.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dz3.js" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   <component name="ProjectFrameBounds" extendedState="7">
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+>>>>>>> origin/master
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -102,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,6 +131,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,30 +167,41 @@
       <workItem from="1566406640372" duration="4775000" />
       <workItem from="1566729912441" duration="842000" />
       <workItem from="1566799808673" duration="10503000" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
       <workItem from="1567012524958" duration="11993000" />
       <workItem from="1567147133668" duration="176000" />
 >>>>>>> Stashed changes
+=======
+      <workItem from="1567012524958" duration="11993000" />
+>>>>>>> origin/master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="16120000" />
 =======
     <option name="totallyTimeSpent" value="28289000" />
 >>>>>>> Stashed changes
+=======
+    <option name="totallyTimeSpent" value="28113000" />
+>>>>>>> origin/master
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
 =======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
 >>>>>>> Stashed changes
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+>>>>>>> origin/master
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -186,11 +215,15 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.062193125" />
 =======
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32242227" />
 >>>>>>> Stashed changes
+=======
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32242227" />
+>>>>>>> origin/master
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -210,7 +243,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+    <entry file="file://$PROJECT_DIR$/dz2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-631">
+          <caret line="106" column="25" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> origin/master
     <entry file="file://$PROJECT_DIR$/index.html">
 =======
     <entry file="file://$PROJECT_DIR$/dz2.js">
@@ -228,8 +271,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dz2.js">
+    <entry file="file://$PROJECT_DIR$/dz3.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         <state relative-caret-position="485">
           <caret line="106" column="25" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
@@ -237,6 +281,10 @@
         <state relative-caret-position="320">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
 >>>>>>> Stashed changes
+=======
+        <state relative-caret-position="320">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
