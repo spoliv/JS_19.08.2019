@@ -25,40 +25,21 @@ const basket = {
                 break
             }
 
-            const divTag = document.querySelector('.basket');
-            let statBasket = document.createElement('p');
-            statBasket.textContent = `В корзине ${this.basketQuantity} товаров на сумму ${this.basketValue} рублей`;
-            divTag.appendChild(statBasket);
-            //console.log(this.basketValue, this.basketQuantity);
-            //console.log(this.products);
+            // const divTag = document.querySelector('.basket');
+            // let statBasket = document.createElement('p');
+            // statBasket.textContent = `В корзине ${this.basketQuantity} товаров на сумму ${this.basketValue} рублей`;
+            // divTag.appendChild(statBasket);
         }
+        const divTag = document.querySelector('.basket');
+        let statBasket = document.createElement('p');
+        if (this.basketQuantity === null) {
+            statBasket.textContent = 'Корзина пуста';
+        }
+        else {
+            statBasket.textContent = `В корзине ${this.basketQuantity} товаров на сумму ${this.basketValue} рублей`;
+        }
+        divTag.appendChild(statBasket);
     }
 };
 
-
-
-
-//     countBasketPrice() {
-//         this.products = [];
-//         for (let product of this.products) {
-//             this.basketValue += product['price'] * product['amount'];
-//         }
-//         divTag = document.g
-//
-//     }
-// };
-
-//     sumProduct(price, quantity) {
-//         return price * quantity
-//     },
-// };
-
-//     countBasketPrice(){
-//         this.basket = [];
-//         for (let product of basket) {
-//         basketValue += product['price'] * product['amount'];
-//     }
-//     return basketValue;
-// }
-// const basket = document.createElement()
 window.addEventListener('load', () => basket.addProduct());
